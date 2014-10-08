@@ -74,7 +74,7 @@ var iterators = {
     // reduce: function(arr,callback,accumulator){
     //   arr = arr || [];
     //   for (var i = 0; i < arr.length; i++) {
-    //     accumulator=callback(arr[i],accumulator);
+    //     accumulator = callback(arr[i],accumulator);
     //   };
     // }
 
